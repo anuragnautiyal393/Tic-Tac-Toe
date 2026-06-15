@@ -26,8 +26,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 Completed
 
-## Author
+## Author 
 
 Anurag Nautiyal
-Anurag Nauti
 
