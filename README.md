@@ -29,7 +29,5 @@ Completed
 ## Author
 
 Anurag Nautiyal
-
-
-Anurag Nautiyal
+Anurag Nauti
 
